@@ -7,7 +7,7 @@ https://github.com/biirdio/client-js/blob/master/biird.js
 Set up your HTML markup.
 
 <pre>
-<div class="biird" data-biird-id="b9fb0f44-31d5-45df-9ec3-776568802c31"></div>
+&#60;div class="biird" data-biird-id="b9fb0f44-31d5-45df-9ec3-776568802c31"&#62;&#60;/div&#62;
 </pre>
 
 Add the library to the end of your Body tag. biird will automatically initialize on load.
